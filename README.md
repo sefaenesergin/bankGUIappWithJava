@@ -2,7 +2,7 @@
 
 ## Bank Customer Management System
 
-**This project given by my school. I learned  arraylist, inheritance and guı design with that project. Also ı improve my self about OOP philosophy. **
+This project given by my school. I learned  arraylist, inheritance and guı design with that project. Also ı improve my self about OOP philosophy. 
 
 
 
@@ -22,9 +22,11 @@ java bank app  uses a  projects to work properly:
 
 - [JAVA] --> For everything.
 
+## How can ı run?
+You should download all files. And open Netbeans/Codeblocks or something. And run  **bankaOdevi.java** file on your IDE.
 
 
-## Some screen shots
+# Some screen shots
 
 ## Main Page
 ![ım1](https://github.com/sefaenesergin/bankGUIappWithJava/blob/main/images/mainPage.png)
